@@ -1,4 +1,6 @@
-title: Welcome to test!
+_model: blog
+---
+title: Home
 ---
 body:
 
